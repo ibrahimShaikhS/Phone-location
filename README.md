@@ -1,3 +1,6 @@
 # Phone-location
 
-pip install phonelumbers
+pip install phonenumbers
+pip install opencage
+pip install folium
+
